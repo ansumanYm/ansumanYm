@@ -1,3 +1,5 @@
+# <h1 align="center">Hola, I'm <a href="https://github.com/ansumanYm">Ansuman Nayak<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+
 # 💫 About Me:
 🔭 I’m currently working on "Story-telling with Tableau".<br>🌱 I’m currently learning MLops.<br>💬 Ask me about Neural Nets and NLP.<br>⚡ Want to Learn more about Transfer Learning. 
 
